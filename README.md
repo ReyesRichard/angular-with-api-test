@@ -10,7 +10,7 @@
 
 9. Correr el proyecto angular en otra consola ejecutando: `npm start`
 
-11. Abrir el proyecto en el navegador a y través de la url [localhost:400](https://localhost:4200)
+11. Abrir el proyecto en el navegador a y través de la url [localhost:4200](https://localhost:4200)
 
 **Nota proyecto realizado con:
 **
