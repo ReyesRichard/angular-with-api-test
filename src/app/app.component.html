@@ -1,0 +1,30 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<mat-toolbar color="primary">
+  <div class="container">
+    <mat-toolbar  color="primary">
+      <span>{{title}}</span>
+      <a routerLink="/" routerLinkActive="link-activado">
+        <button mat-button [ngStyle]="{'color': 'white'}">Home</button>
+      </a>
+    </mat-toolbar>
+  </div>
+</mat-toolbar>
+<div class="container">
+  
+  <div class="row">
+
+
+  </div>
+  
+
+  
+  <section id="main" class="main" >
+    <router-outlet></router-outlet>
+  </section>
+  
+  <footer class="row justify-content-center">
+    <div col-md-4>
+      Ricardo Reyes Torres - 2019
+    </div>
+  </footer>
+</div>

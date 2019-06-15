@@ -1,0 +1,12 @@
+<div class="sidebar">
+
+    <h3>Authors:</h3>
+    <mat-divider></mat-divider>
+    <app-author 
+        [authorNumber]="i"
+        (autorSelected) = "getIdAuthor($event)"
+        *ngFor="let author of authors; index as i"
+    ></app-author>
+
+    <mat-divider></mat-divider>
+</div>
