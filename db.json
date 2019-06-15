@@ -1,0 +1,269 @@
+{
+  "posts": [
+    {
+      "id": 0,
+      "title": "Publication",
+      "date": "January 1, 2019 01:00:00",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at dui sed erat efficitur pellentesque sit amet ac quam. Integer sed ligula sagittis, finibus risus vitae, facilisis felis. Proin consectetur orci mi, ac rutrum tellus bibendum in. ",
+      "author": 3 
+    },
+    {
+      "id": 1,
+      "title": "Publication 1",
+      "date": "January 2, 2019 01:00:00",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at dui sed erat efficitur pellentesque sit amet ac quam. Integer sed ligula sagittis, finibus risus vitae, facilisis felis. Proin consectetur orci mi, ac rutrum tellus bibendum in. ",
+      "author": 1 
+    },
+    {
+      "id": 2,
+      "title": "Publicación 2",
+      "date": "March 3, 2019 01:00:00",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at dui sed erat efficitur pellentesque sit amet ac quam. Integer sed ligula sagittis, finibus risus vitae, facilisis felis. Proin consectetur orci mi, ac rutrum tellus bibendum in. ",
+      "author": 1 
+    },
+    {
+      "id": 3,
+      "title": "Publicación 3",
+      "date": "March 5, 2019 01:00:00",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at dui sed erat efficitur pellentesque sit amet ac quam. Integer sed ligula sagittis, finibus risus vitae, facilisis felis. Proin consectetur orci mi, ac rutrum tellus bibendum in. ",
+      "author": 2 
+    },
+    {
+      "id": 4,
+      "title": "Publication 4",
+      "date": "July 7, 2019 01:00:00",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at dui sed erat efficitur pellentesque sit amet ac quam. Integer sed ligula sagittis, finibus risus vitae, facilisis felis. Proin consectetur orci mi, ac rutrum tellus bibendum in. ",
+      "author": 3
+    },
+    {
+      "id": 5,
+      "title": "Publication 5",
+      "date": "July 10, 2019 01:00:00",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at dui sed erat efficitur pellentesque sit amet ac quam. Integer sed ligula sagittis, finibus risus vitae, facilisis felis. Proin consectetur orci mi, ac rutrum tellus bibendum in. ",
+      "author": 2 
+    },
+    {
+      "id": 6,
+      "title": "Publication 6",
+      "date": "August 14, 2019 01:00:00",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at dui sed erat efficitur pellentesque sit amet ac quam. Integer sed ligula sagittis, finibus risus vitae, facilisis felis. Proin consectetur orci mi, ac rutrum tellus bibendum in. ",
+      "author": 4 
+    },
+    {
+      "id": 7,
+      "title": "Publication 7",
+      "date": "August 15, 2019 01:00:00",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at dui sed erat efficitur pellentesque sit amet ac quam. Integer sed ligula sagittis, finibus risus vitae, facilisis felis. Proin consectetur orci mi, ac rutrum tellus bibendum in. ",
+      "author": 1
+    }, 
+    {
+      "id": 8,
+      "title": "Publication 8",
+      "date": "August 17, 2019 01:00:00",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at dui sed erat efficitur pellentesque sit amet ac quam. Integer sed ligula sagittis, finibus risus vitae, facilisis felis. Proin consectetur orci mi, ac rutrum tellus bibendum in. ",
+      "author": 0
+    }, 
+    {
+      "id": 9,
+      "title": "Publication 9",
+      "date": "August 1, 2019 01:00:00",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at dui sed erat efficitur pellentesque sit amet ac quam. Integer sed ligula sagittis, finibus risus vitae, facilisis felis. Proin consectetur orci mi, ac rutrum tellus bibendum in. ",
+      "author": 1 
+    },
+    {
+      "id": 10,
+      "title": "Publicación 10",
+      "date": "October 3, 2019 01:00:00",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at dui sed erat efficitur pellentesque sit amet ac quam. Integer sed ligula sagittis, finibus risus vitae, facilisis felis. Proin consectetur orci mi, ac rutrum tellus bibendum in. ",
+      "author": 1 
+    },
+    {
+      "id": 11,
+      "title": "Publicación 11",
+      "date": "October 5, 2019 01:00:00",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at dui sed erat efficitur pellentesque sit amet ac quam. Integer sed ligula sagittis, finibus risus vitae, facilisis felis. Proin consectetur orci mi, ac rutrum tellus bibendum in. ",
+      "author": 2 
+    },
+    {
+      "id": 12,
+      "title": "Publication 12",
+      "date": "October 7, 2019 01:00:00",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at dui sed erat efficitur pellentesque sit amet ac quam. Integer sed ligula sagittis, finibus risus vitae, facilisis felis. Proin consectetur orci mi, ac rutrum tellus bibendum in. ",
+      "author": 3
+    },
+    {
+      "id": 13,
+      "title": "Publication 13",
+      "date": "October 10, 2019 01:00:00",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at dui sed erat efficitur pellentesque sit amet ac quam. Integer sed ligula sagittis, finibus risus vitae, facilisis felis. Proin consectetur orci mi, ac rutrum tellus bibendum in. ",
+      "author": 2 
+    },
+    {
+      "id": 14,
+      "title": "Publication 14",
+      "date": "November 14, 2019 01:00:00",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at dui sed erat efficitur pellentesque sit amet ac quam. Integer sed ligula sagittis, finibus risus vitae, facilisis felis. Proin consectetur orci mi, ac rutrum tellus bibendum in. ",
+      "author": 4 
+    },
+    {
+      "id": 15,
+      "title": "Publication 15",
+      "date": "December 15, 2019 01:00:00",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at dui sed erat efficitur pellentesque sit amet ac quam. Integer sed ligula sagittis, finibus risus vitae, facilisis felis. Proin consectetur orci mi, ac rutrum tellus bibendum in. ",
+      "author": 1
+    }, 
+    {
+      "id": 16,
+      "title": "Publication 16",
+      "date": "December 17, 2019 01:00:00",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at dui sed erat efficitur pellentesque sit amet ac quam. Integer sed ligula sagittis, finibus risus vitae, facilisis felis. Proin consectetur orci mi, ac rutrum tellus bibendum in. ",
+      "author": 0
+    }, 
+    {
+      "id": 17,
+      "title": "Publication 17",
+      "date": "December 17, 2019 01:00:00",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at dui sed erat efficitur pellentesque sit amet ac quam. Integer sed ligula sagittis, finibus risus vitae, facilisis felis. Proin consectetur orci mi, ac rutrum tellus bibendum in. ",
+      "author": 1
+    }, 
+    {
+      "id": 18,
+      "title": "Publication 18",
+      "date": "December 17, 2019 01:00:00",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at dui sed erat efficitur pellentesque sit amet ac quam. Integer sed ligula sagittis, finibus risus vitae, facilisis felis. Proin consectetur orci mi, ac rutrum tellus bibendum in. ",
+      "author": 2
+    }, 
+    {
+      "id": 19,
+      "title": "Publication 19",
+      "date": "December 17, 2019 01:00:00",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at dui sed erat efficitur pellentesque sit amet ac quam. Integer sed ligula sagittis, finibus risus vitae, facilisis felis. Proin consectetur orci mi, ac rutrum tellus bibendum in. ",
+      "author": 3
+    }, 
+    {
+      "id": 20,
+      "title": "Publication 20",
+      "date": "December 18, 2019 01:00:00",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at dui sed erat efficitur pellentesque sit amet ac quam. Integer sed ligula sagittis, finibus risus vitae, facilisis felis. Proin consectetur orci mi, ac rutrum tellus bibendum in. ",
+      "author": 3
+    }, 
+    {
+      "id": 21,
+      "title": "Publication 21",
+      "date": "December 18, 2019 01:00:00",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at dui sed erat efficitur pellentesque sit amet ac quam. Integer sed ligula sagittis, finibus risus vitae, facilisis felis. Proin consectetur orci mi, ac rutrum tellus bibendum in. ",
+      "author": 2
+    }, 
+    {
+      "id": 22,
+      "title": "Publication 22",
+      "date": "December 19, 2019 01:00:00",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at dui sed erat efficitur pellentesque sit amet ac quam. Integer sed ligula sagittis, finibus risus vitae, facilisis felis. Proin consectetur orci mi, ac rutrum tellus bibendum in. ",
+      "author": 4
+    }, 
+    {
+      "id": 23,
+      "title": "Publication 23",
+      "date": "December 20, 2019 01:00:00",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at dui sed erat efficitur pellentesque sit amet ac quam. Integer sed ligula sagittis, finibus risus vitae, facilisis felis. Proin consectetur orci mi, ac rutrum tellus bibendum in. ",
+      "author": 2
+    }, 
+    {
+      "id": 24,
+      "title": "Publication 24",
+      "date": "December 20, 2019 01:00:00",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at dui sed erat efficitur pellentesque sit amet ac quam. Integer sed ligula sagittis, finibus risus vitae, facilisis felis. Proin consectetur orci mi, ac rutrum tellus bibendum in. ",
+      "author": 0
+    }, 
+    {
+      "id": 25,
+      "title": "Publication 25",
+      "date": "December 20, 2019 01:00:00",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at dui sed erat efficitur pellentesque sit amet ac quam. Integer sed ligula sagittis, finibus risus vitae, facilisis felis. Proin consectetur orci mi, ac rutrum tellus bibendum in. ",
+      "author": 2
+    }, 
+    {
+      "id": 26,
+      "title": "Publication 26",
+      "date": "December 21, 2019 01:00:00",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at dui sed erat efficitur pellentesque sit amet ac quam. Integer sed ligula sagittis, finibus risus vitae, facilisis felis. Proin consectetur orci mi, ac rutrum tellus bibendum in. ",
+      "author": 4
+    }, 
+    {
+      "id": 27,
+      "title": "Publication 27",
+      "date": "December 22, 2019 01:00:00",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at dui sed erat efficitur pellentesque sit amet ac quam. Integer sed ligula sagittis, finibus risus vitae, facilisis felis. Proin consectetur orci mi, ac rutrum tellus bibendum in. ",
+      "author": 2
+    }, 
+    {
+      "id": 28,
+      "title": "Publication 28",
+      "date": "December 23, 2019 01:00:00",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at dui sed erat efficitur pellentesque sit amet ac quam. Integer sed ligula sagittis, finibus risus vitae, facilisis felis. Proin consectetur orci mi, ac rutrum tellus bibendum in. ",
+      "author": 0
+    }, 
+    {
+      "id": 29,
+      "title": "Publication 29",
+      "date": "December 23, 2019 01:00:00",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at dui sed erat efficitur pellentesque sit amet ac quam. Integer sed ligula sagittis, finibus risus vitae, facilisis felis. Proin consectetur orci mi, ac rutrum tellus bibendum in. ",
+      "author": 1
+    }, 
+    {
+      "id": 30,
+      "title": "Publication 30",
+      "date": "December 25, 2019 01:00:00",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at dui sed erat efficitur pellentesque sit amet ac quam. Integer sed ligula sagittis, finibus risus vitae, facilisis felis. Proin consectetur orci mi, ac rutrum tellus bibendum in. ",
+      "author": 2
+    }, 
+    {
+      "id": 31,
+      "title": "Publication 31",
+      "date": "December 26, 2019 01:00:00",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at dui sed erat efficitur pellentesque sit amet ac quam. Integer sed ligula sagittis, finibus risus vitae, facilisis felis. Proin consectetur orci mi, ac rutrum tellus bibendum in. ",
+      "author": 3
+    }, 
+    {
+      "id": 32,
+      "title": "Publication 32",
+      "date": "December 29, 2019 01:00:00",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at dui sed erat efficitur pellentesque sit amet ac quam. Integer sed ligula sagittis, finibus risus vitae, facilisis felis. Proin consectetur orci mi, ac rutrum tellus bibendum in. ",
+      "author": 3
+    }
+    
+  ],
+
+  "authors": [
+    {
+      "id": 0,
+      "first-name": "Pedro",
+      "last-name": "Torres", 
+      "email": "juan@correo.com"
+    },
+    {
+      "id": 1,
+      "first-name": "Juan",
+      "last-name": "Pérez", 
+      "email": "juan@correo.com"
+    },
+    {
+      "id": 2,
+      "first-name": "Marisol",
+      "last-name": "Solar", 
+      "email": "marisol@correo.com"
+    },
+    {
+      "id": 3,
+      "first-name": "Fernando",
+      "last-name": "Carmona", 
+      "email": "fer.carmona@gmail.com"
+    },
+    {
+      "id": 4,
+      "first-name": "Victor",
+      "last-name": "Juárez", 
+      "email": "vic@correo.com"
+    }
+  ]
+}
