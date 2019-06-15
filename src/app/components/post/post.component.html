@@ -1,0 +1,94 @@
+<div class="post">
+  <div *ngIf="posts row">
+
+    <div class="example-button-row col-md-12" [ngStyle]="{'text-align': 'right' }">
+      <!-- <label for="order"> Change Order: </label> -->
+      <!-- <button mat-raised-button color="primary" (click)="changeOrder('id', 'asc', false)" class="btn-order">  Ascending</button>
+      <button mat-raised-button color="primary" (click)="changeOrder('id', 'desc', false)" class="btn-order"> Decendant </button> -->
+      <app-button
+        [text]="'First Publications'"
+        (click)="changeOrder('id', 'asc', false)"
+      >
+      </app-button>
+      <app-button
+        [text]="'Latest publications'"
+        (click)="changeOrder('id', 'desc', false)"
+      >
+      </app-button>
+    </div>
+    <mat-divider></mat-divider>
+
+    <!-- Post -->
+    <mat-card class="example-card" *ngFor="let post of posts">
+      <!-- <mat-card-header>
+
+      </mat-card-header> -->
+      <!-- <img mat-card-image src="https://material.angular.io/assets/img/examples/shiba2.jpg" alt="Photo of a Shiba Inu"> -->
+      <mat-card-content>
+        <h3>{{post.title}}</h3>
+        <p>
+          {{post.description}}
+        </p>
+        <p>Date: {{post.date  | date: 'dd/MM/yyyy'}}</p>
+      </mat-card-content>
+      <mat-card-actions>
+                <!-- <div>
+                  <p></p>
+                  <p>Email: prueba@correo.com</p>
+                </div> -->
+        <!-- <span mat-button><strong>Jorge Mora</strong> </span> - 
+        <span mat-button> <i>prueba@correo.com</i> </span> -->
+        <app-author [authorNumber]="post.author"></app-author>
+      </mat-card-actions>
+    </mat-card>
+
+    <!-- Fn Post -->
+
+    <!-- Pagination -->
+    <!-- <mat-paginator 
+    [length]="length"
+    [pageSize]="pageSize"
+    [pageSizeOptions]="pageSizeOptions"
+    (page)="pageEvent = $event"
+    > -->
+    
+    <!-- </mat-paginator> -->
+
+    <div class="row">
+      <div class="col-md-12">
+        
+        <nav aria-label="Page navigation example">
+          
+          <ul class="pagination">
+            <li class="page-item"><a class="page-link" (click)='PrevPagePosts()' [ngStyle]="{'background-color': '#3f51b5', 'color': 'white'}">Previous</a></li>
+            <li class="page-item"><a class="page-link" (click)="NextPagePosts()" [ngStyle]="{'background-color': '#3f51b5', 'color': 'white'}">Next</a></li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+
+    <!-- Fn Pagination -->
+
+    <!-- <div >
+      <h5>Page Change Event Properties</h5>
+      <div>List length: {{pageEvent.length}}</div>
+      <div>Page size: {{pageEvent.pageSize}}</div>
+      <div>Page index: {{pageEvent.pageIndex}}</div>
+    </div> -->
+  </div>
+  
+  <span *ngIf="!posts">
+      <mat-card>
+        <mat-card-content>
+          <h2 class="example-h2">Loading...</h2>
+      
+          <mat-progress-spinner
+              class="example-margin"
+              [color]="'primary'"
+              [mode]="'indeterminate'"
+              [ngStyle]="{'margin': '0 auto'}">
+          </mat-progress-spinner>
+        </mat-card-content>
+      </mat-card>
+  </span>
+</div>
